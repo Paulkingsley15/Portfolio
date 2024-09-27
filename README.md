@@ -2,7 +2,7 @@
 
 ## Overview
 
-This portfolio showcases a series of data science and machine learning projects that demonstrate my passion for applying advanced analytics and developing predictive models across different domains. From analyzing real-world datasets to building models using state-of-the-art machine learning techniques, these projects reflect my commitment to deepening my knowledge in data science and my aspiration to land a role in the field.
+Hello! My name is Paul KingsleyThis portfolio showcases a series of data science and machine learning projects that demonstrate my passion for applying advanced analytics and developing predictive models across different domains. From analyzing real-world datasets to building models using state-of-the-art machine learning techniques, these projects reflect my commitment to deepening my knowledge in data science and my aspiration to land a role in the field.
 
 Each project presented below offers a glimpse into how I leverage Python, machine learning libraries, and my analytical mindset to solve problems and uncover insights. Whether it’s sentiment analysis, sports optimization, or gamma ray classification, I continuously seek opportunities to learn, experiment, and improve.
 
@@ -70,6 +70,7 @@ As I continue to learn and grow, I am excited to apply my skills in a data scien
 
 ### Contact
 Feel free to connect with me for collaboration, feedback, or career opportunities in data science or machine learning!
+Email - paul.kingsley22@yahoo.com
 
 ---
 
